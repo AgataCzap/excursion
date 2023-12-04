@@ -9,6 +9,10 @@ body {
     font-weight: normal;
     font-size: 50;
     color: #ffffffff;
-    
 
+}
+
+.link--cra {
+    font-size: 16px;
+    color: aquamarine;
 }
