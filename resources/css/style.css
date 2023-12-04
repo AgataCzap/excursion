@@ -26,6 +26,13 @@ body {
 
 }
 
+.header--footer {
+    text-align: right;
+    font-size: 16px;
+    color: gray;
+
+}
+
 /*link*/
 .link--cra {
     font-size: 16px;
